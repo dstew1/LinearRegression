@@ -9,4 +9,4 @@ Using this predict salaries for following candidates,
 
 12 yr experience, 10 test score, 10 interview score
 
-I finished the problem with some errors, but they do not affect my predictions.
+
